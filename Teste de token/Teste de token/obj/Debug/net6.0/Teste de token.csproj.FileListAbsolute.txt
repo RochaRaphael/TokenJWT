@@ -1,0 +1,23 @@
+C:\Users\rocha\source\repos\Teste de token\Teste de token\bin\Debug\net6.0\Teste de token.exe
+C:\Users\rocha\source\repos\Teste de token\Teste de token\bin\Debug\net6.0\Teste de token.deps.json
+C:\Users\rocha\source\repos\Teste de token\Teste de token\bin\Debug\net6.0\Teste de token.runtimeconfig.json
+C:\Users\rocha\source\repos\Teste de token\Teste de token\bin\Debug\net6.0\Teste de token.dll
+C:\Users\rocha\source\repos\Teste de token\Teste de token\bin\Debug\net6.0\Teste de token.pdb
+C:\Users\rocha\source\repos\Teste de token\Teste de token\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\rocha\source\repos\Teste de token\Teste de token\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rocha\source\repos\Teste de token\Teste de token\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\rocha\source\repos\Teste de token\Teste de token\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rocha\source\repos\Teste de token\Teste de token\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rocha\source\repos\Teste de token\Teste de token\obj\Debug\net6.0\Teste de token.csproj.AssemblyReference.cache
+C:\Users\rocha\source\repos\Teste de token\Teste de token\obj\Debug\net6.0\Teste de token.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rocha\source\repos\Teste de token\Teste de token\obj\Debug\net6.0\Teste de token.AssemblyInfoInputs.cache
+C:\Users\rocha\source\repos\Teste de token\Teste de token\obj\Debug\net6.0\Teste de token.AssemblyInfo.cs
+C:\Users\rocha\source\repos\Teste de token\Teste de token\obj\Debug\net6.0\Teste de token.csproj.CoreCompileInputs.cache
+C:\Users\rocha\source\repos\Teste de token\Teste de token\obj\Debug\net6.0\Teste de.5C3AFA04.Up2Date
+C:\Users\rocha\source\repos\Teste de token\Teste de token\obj\Debug\net6.0\Teste de token.dll
+C:\Users\rocha\source\repos\Teste de token\Teste de token\obj\Debug\net6.0\refint\Teste de token.dll
+C:\Users\rocha\source\repos\Teste de token\Teste de token\obj\Debug\net6.0\Teste de token.pdb
+C:\Users\rocha\source\repos\Teste de token\Teste de token\obj\Debug\net6.0\Teste de token.genruntimeconfig.cache
+C:\Users\rocha\source\repos\Teste de token\Teste de token\obj\Debug\net6.0\ref\Teste de token.dll
+C:\Users\rocha\source\repos\Teste de token\Teste de token\bin\Debug\net6.0\Konscious.Security.Cryptography.Argon2.dll
+C:\Users\rocha\source\repos\Teste de token\Teste de token\bin\Debug\net6.0\Konscious.Security.Cryptography.Blake2.dll
